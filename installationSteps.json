@@ -1,0 +1,83 @@
+{
+    "installSteps": [
+        {
+            "step": 1,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 2,
+            "status": "todo",
+            "subStep": [
+                {
+                    "step": 1,
+                    "status": "todo"
+                },
+                {
+                    "step": 2,
+                    "status": "todo"
+                },
+                {
+                    "step": 3,
+                    "status": "todo"
+                },
+                {
+                    "step": 4,
+                    "status": "todo"
+                },
+                {
+                    "step": 5,
+                    "status": "todo"
+                },
+                {
+                    "step": 6,
+                    "status": "todo"
+                },
+                {
+                    "step": 7,
+                    "status": "todo"
+                }
+            ]
+        },
+        {
+            "step": 3,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 4,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 5,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 6,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 7,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 8,
+            "status": "todo",
+            "subStep": []
+        },
+        {
+            "step": 9,
+            "status": "todo",
+            "subStep": []
+        }
+    ],
+    "envVar": {
+        "JWT_SECRET": "f70e23f61f17c49aaa7f5cdde84a3677",
+        "PRECOMPANYKEY": "52d6c6a0",
+        "WEBURL": "https://auditpress.com"
+    }
+}
